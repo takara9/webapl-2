@@ -22,7 +22,8 @@
 <p>ようこそ、サンプルアプリケーションのウェブページへ
   IstioのIngress-Gateway の Virtual Host の機能を検証するために、このページを作成しました。
 <p>
-  
+
+
 <img src="img/job_magician_ojiisan.png">
 
 <button>ボタン</button>
