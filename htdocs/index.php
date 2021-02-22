@@ -21,7 +21,7 @@
 
 <p>ようこそ、サンプルアプリケーションのウェブページへ
   IstioのIngress-Gateway の Virtual Host の機能を検証するために、このページを作成しました。
-  それだけでなくGitLab と Jenkins の連携にも
+  それだけでなくGitLab と Jenkins の連携にも使えたよ。よかった！
 <p>
   
 <img src="img/job_magician_ojiisan.png">
